@@ -2,7 +2,7 @@
 Public organization profile for LumoBridge.
 <div align="center">
 
-<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge logo" width="230" />
+<img src="./logotexttran.png" alt="LumoBridge logo" width="230" />
 
 <br />
 
