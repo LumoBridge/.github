@@ -4,8 +4,6 @@
 
 <br />
 
-# LumoBridge
-
 ### Practical digital tools for clarity, progress, documentation, analytics, and decision support.
 
 <br />
