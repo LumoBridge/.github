@@ -7,6 +7,7 @@
 ### Practical digital tools for clarity, progress, documentation, analytics, and decision support.
 
 <br />
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=850&lines=AI-powered+apps+and+dashboards.;Structured+tools+for+real+decisions.;Human-centered+products+for+real+needs.;Smarter+systems+for+clarity+and+progress." alt="LumoBridge animated intro" />
 
 <br />
@@ -14,22 +15,22 @@
 
 <p>
   <a href="https://lumobridge.com">
-    <img src="https://img.shields.io/badge/Website-LumoBridge.com-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-LumoBridge.com-111827?style=for-the-badge" alt="LumoBridge website" />
   </a>
   <a href="mailto:hello@lumobridge.com">
-    <img src="https://img.shields.io/badge/Email-hello@lumobridge.com-10B981?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-hello@lumobridge.com-10B981?style=for-the-badge" alt="Email LumoBridge" />
   </a>
   <a href="https://github.com/LumoBridge">
-    <img src="https://img.shields.io/badge/GitHub-LumoBridge-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-LumoBridge-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="LumoBridge GitHub" />
   </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Apps-6366F1?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-10B981?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Product%20Strategy-F59E0B?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Human--Centered%20Tools-374151?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/AI%20Apps-6366F1?style=for-the-badge&labelColor=111827" alt="AI Apps" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&labelColor=111827" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-10B981?style=for-the-badge&labelColor=111827" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Product%20Strategy-F59E0B?style=for-the-badge&labelColor=111827" alt="Product Strategy" />
+  <img src="https://img.shields.io/badge/Human--Centered%20Tools-374151?style=for-the-badge&labelColor=111827" alt="Human-Centered Tools" />
 </p>
 
 </div>
@@ -54,6 +55,7 @@ LumoBridge focuses on practical software that is:
 > Useful technology should help people feel more organized, informed, and prepared — not more confused.
 
 ---
+
 ## Product ecosystem
 
 <p align="center">
@@ -79,7 +81,8 @@ LumoBridge focuses on practical software that is:
 </a>
 
 </div>
-## Product ecosystem
+
+<br />
 
 | Product | Focus | Status |
 |---|---|---|
@@ -124,7 +127,7 @@ It includes:
 
 <p>
   <a href="https://github.com/LumoBridge/ThriveMap-Public-">
-    <img src="https://img.shields.io/badge/View-ThriveMap%20Public%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View-ThriveMap%20Public%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View ThriveMap public repo" />
   </a>
 </p>
 
@@ -133,24 +136,24 @@ It includes:
 ## Tools and focus areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-10B981?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F59E0B?style=for-the-badge&logo=powerbi&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Supabase-10B981?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F59E0B?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Workflows-374151?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business%20Analytics-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UX%20Design-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Community%20Work-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Workflows-374151?style=for-the-badge" alt="AI Workflows" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Business%20Analytics-F59E0B?style=for-the-badge" alt="Business Analytics" />
+  <img src="https://img.shields.io/badge/UX%20Design-6366F1?style=for-the-badge" alt="UX Design" />
+  <img src="https://img.shields.io/badge/Community%20Work-374151?style=for-the-badge" alt="Community Work" />
 </p>
 
 ---
@@ -176,10 +179,10 @@ We welcome feedback, collaboration, and aligned opportunities with people and or
 
 <p align="center">
   <a href="https://lumobridge.com">
-    <img src="https://img.shields.io/badge/Visit-LumoBridge.com-111827?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Visit-LumoBridge.com-111827?style=for-the-badge" alt="Visit LumoBridge" />
   </a>
   <a href="mailto:hello@lumobridge.com">
-    <img src="https://img.shields.io/badge/Contact-hello@lumobridge.com-10B981?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Contact-hello@lumobridge.com-10B981?style=for-the-badge" alt="Contact LumoBridge" />
   </a>
 </p>
 
