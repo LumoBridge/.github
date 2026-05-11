@@ -1,0 +1,136 @@
+<div align="center">
+
+# LumoBridge
+
+### Digital tools for clarity, progress, documentation, analytics, and decision support.
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=950&lines=Digital+tools+for+clarity%2C+progress%2C+and+protection.;Building+AI-powered+apps%2C+dashboards%2C+and+structured+systems.;Creating+human-centered+products+around+real+user+needs.;Turning+lived+experience+into+practical+digital+tools." alt="LumoBridge animated intro" />
+
+<br />
+
+<p>
+  <a href="https://lumobridge.com">
+    <img src="https://img.shields.io/badge/Website-LumoBridge.com-111827?style=for-the-badge" />
+  </a>
+  <a href="mailto:hello@lumobridge.com">
+    <img src="https://img.shields.io/badge/Email-hello@lumobridge.com-10B981?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/LumoBridge">
+    <img src="https://img.shields.io/badge/GitHub-LumoBridge-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## About LumoBridge
+
+**LumoBridge** builds structured digital tools that help people organize important information, reflect with clarity, and make better decisions over time.
+
+The work combines product design, business analytics, AI-assisted workflows, community-informed research, and human-centered systems thinking.
+
+LumoBridge focuses on practical software that is:
+
+- clear
+- useful
+- privacy-aware
+- organized
+- human-centered
+- built around real user needs
+
+---
+
+## Product ecosystem
+
+| Product | Focus | Status |
+|---|---|---|
+| **ThriveMap** | Guided reflection, clarity, steady practice | Preparing for launch |
+| **ThrivePath** | Career growth, confidence, goals, agentic AI coaching | Product research |
+| **WorkShield** | Workplace documentation, records, timelines, preparedness | In development |
+
+---
+
+## What we build
+
+LumoBridge is developing a connected product ecosystem across:
+
+- mobile apps
+- web platforms
+- business dashboards
+- agentic AI workflows
+- structured documentation tools
+- product feedback systems
+- decision-support dashboards
+- community-informed product research
+
+The goal is to build smarter systems that help people and organizations organize information, understand patterns, reduce confusion, and take better next steps.
+
+---
+
+## Featured project
+
+### ThriveMap
+
+**ThriveMap** is a guided reflection app built for people who want more structure, clarity, and consistency in their personal growth practice.
+
+It includes:
+
+- four reflection domains
+- five-step guided sessions
+- weekly cycles
+- a 70-day journey
+- reflection history
+- journey summaries
+- web, iOS, and Android release preparation
+
+<p>
+  <a href="https://github.com/LumoBridge/ThriveMap-Public-">
+    <img src="https://img.shields.io/badge/View-ThriveMap%20Public%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Tools and focus areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Apps-6366F1?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-10B981?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Product%20Strategy-F59E0B?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/UX%20Design-6366F1?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Community%20Work-374151?style=for-the-badge&labelColor=111827" />
+</p>
+
+---
+
+## Product principles
+
+| Principle | Meaning |
+|---|---|
+| Clear before clever | Make tools easy to understand |
+| Useful before flashy | Solve real problems first |
+| Privacy before exposure | Treat sensitive information carefully |
+| Structure before complexity | Help people organize what matters |
+| Real needs before assumptions | Let feedback guide product decisions |
+| Human before system | Technology should support people, not overwhelm them |
+
+---
+
+## Connect
+
+LumoBridge is expanding across web, mobile, GitHub, LinkedIn, YouTube, and X to share product updates, demos, research, and practical tools.
+
+If this work connects with you, we welcome feedback, collaboration, and aligned opportunities.
+
+<p align="center">
+  <a href="https://lumobridge.com">
+    <img src="https://img.shields.io/badge/Visit-LumoBridge.com-111827?style=for-the-badge" />
+  </a>
+  <a href="mailto:hello@lumobridge.com">
+    <img src="https://img.shields.io/badge/Contact-hello@lumobridge.com-10B981?style=for-the-badge" />
+  </a>
+</p>
