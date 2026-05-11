@@ -1,18 +1,18 @@
-# .github
-Public organization profile for LumoBridge.
 <div align="center">
   
 <img src="https://raw.githubusercontent.com/LumoBridge/.github/main/profile/GitHub-2.png" alt="LumoBridge logo" width="260" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=980&lines=Digital+tools+for+clarity%2C+progress%2C+and+protection.;Turning+lived+experience+into+practical+digital+tools.;Building+AI-powered+apps%2C+dashboards%2C+and+structured+systems.;Creating+human-centered+products+around+real+user+needs.;Designing+smarter+systems+for+real-world+decisions." alt="LumoBridge animated intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=1200&lines=Digital+tools+for+clarity%2C+progress%2C+and+protection.;Turning+lived+experience+into+practical+digital+tools.;Building+AI-powered+apps%2C+dashboards%2C+and+structured+systems.;Creating+human-centered+products+around+real+user+needs.;Designing+smarter+systems+for+real-world+decisions." alt="LumoBridge animated intro" />
 
 <br />
 
-### Founder: **Vey Damneun**
+### Practical digital tools for clarity, progress, documentation, analytics, and decision support.
 
-Building human-centered digital tools that turn lived experience, analytics, and AI into practical systems for clarity, growth, documentation, and decision support.
+**Founder: Vey Damneun**
+
+Building human-centered digital products that connect lived experience, analytics, product design, and AI into practical systems for real-world decisions.
 
 <br />
 
@@ -47,27 +47,21 @@ Building human-centered digital tools that turn lived experience, analytics, and
 
 ---
 
-## About
+## About LumoBridge
 
 **LumoBridge** builds practical digital tools for reflection, growth, workplace documentation, analytics, and AI-assisted workflows.
 
-I turn lived experience into practical digital tools.
-
-My background combines AI, analytics, product design, community work, business analytics, and systems thinking. I build with both technical skill and human understanding.
-
-I believe in resilience, growth, and the ability to move beyond limitations. My goal is to create tools that help people stay organized, prevent avoidable harm, make better decisions, and move forward with clarity and confidence.
-
-LumoBridge is built around a simple product belief:
-
-> Useful technology should help people feel more organized, informed, and prepared — not more overwhelmed.
-
-I focus on building systems that help people:
+The company is focused on building products that help people and organizations:
 
 - organize important information
 - understand patterns and progress
 - make better decisions
 - prepare before problems become overwhelming
-- use AI in a practical and responsible way
+- use AI in practical, responsible, and human-centered ways
+
+LumoBridge is built around a simple product belief:
+
+> Useful technology should help people feel more organized, informed, and prepared — not more overwhelmed.
 
 ---
 
@@ -145,7 +139,7 @@ The LumoBridge dashboard is being designed to bring product insights, survey fee
 
 **ThriveMap is close to launch.**
 
-I’m building LumoBridge around real user needs, not assumptions. Your feedback helps guide what we build, improve, and prioritize before the next products launch.
+LumoBridge is built around real user needs, not assumptions. Your feedback helps guide what we build, improve, and prioritize before the next products launch.
 
 <div align="center">
 
@@ -200,7 +194,7 @@ I’m building LumoBridge around real user needs, not assumptions. Your feedback
 
 ## Analytics and business foundation
 
-My MSBA background supports how I design, measure, and improve products. I focus on turning data into clear decisions through:
+LumoBridge uses business analytics and product research to guide product decisions. The work is shaped by:
 
 - business analytics
 - KPI design
@@ -248,7 +242,7 @@ My MSBA background supports how I design, measure, and improve products. I focus
 
 ---
 
-## What I’m building toward
+## What LumoBridge is building toward
 
 LumoBridge is growing into a multi-product ecosystem focused on practical software, intelligent workflows, and human-centered decision support.
 
@@ -262,7 +256,7 @@ These systems are designed to help people and organizations organize information
 
 ## GitHub discovery
 
-This profile highlights work across product strategy, AI applications, analytics, UX design, documentation systems, and human-centered software.
+This organization highlights work across product strategy, AI applications, analytics, UX design, documentation systems, and human-centered software.
 
 Search areas connected to this work:
 
