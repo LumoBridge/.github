@@ -7,8 +7,7 @@
 ### Practical digital tools for clarity, progress, documentation, analytics, and decision support.
 
 <br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=900&lines=Digital+tools+for+clarity+and+progress.;AI-powered+apps%2C+dashboards%2C+and+structured+systems.;Human-centered+products+for+real+user+needs.;Smarter+systems+for+real-world+decisions." alt="LumoBridge animated intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=850&lines=AI-powered+apps+and+dashboards.;Structured+tools+for+real+decisions.;Human-centered+products+for+real+needs.;Smarter+systems+for+clarity+and+progress." alt="LumoBridge animated intro" />
 
 <br />
 <br />
