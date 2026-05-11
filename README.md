@@ -2,7 +2,7 @@
 Public organization profile for LumoBridge.
 <div align="center">
 
-<img src="../GitHub.png" alt="LumoBridge logo" width="230" />
+<img src="https://raw.githubusercontent.com/LumoBridge/.github/main/GitHub.png" alt="LumoBridge logo" width="230" />
 
 <br />
 
