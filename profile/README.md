@@ -54,7 +54,31 @@ LumoBridge focuses on practical software that is:
 > Useful technology should help people feel more organized, informed, and prepared — not more confused.
 
 ---
+## Product ecosystem
 
+<p align="center">
+  <img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge growing product ecosystem" width="900" />
+</p>
+
+<div align="center">
+
+<a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">
+  <img src="https://img.shields.io/badge/ThrivePath-Take%20Survey-F59E0B?style=for-the-badge&labelColor=111827" alt="Take the ThrivePath survey" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">
+  <img src="https://img.shields.io/badge/WorkShield-Take%20Survey-10B981?style=for-the-badge&labelColor=111827" alt="Take the WorkShield survey" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey">
+  <img src="https://img.shields.io/badge/Community-Share%20Feedback-6366F1?style=for-the-badge&labelColor=111827" alt="Private community interest survey" />
+</a>
+
+</div>
 ## Product ecosystem
 
 | Product | Focus | Status |
