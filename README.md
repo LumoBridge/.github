@@ -2,7 +2,8 @@
 Public organization profile for LumoBridge.
 <div align="center">
 
-<img src="./LumoBridge_whitebacground_logo.png" alt="LumoBridge logo" width="230" />
+<img src="../GitHub.png" alt="LumoBridge logo" width="230" />
+
 <br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=980&lines=Digital+tools+for+clarity%2C+progress%2C+and+protection.;Turning+lived+experience+into+practical+digital+tools.;Building+AI-powered+apps%2C+dashboards%2C+and+structured+systems.;Creating+human-centered+products+around+real+user+needs.;Designing+smarter+systems+for+real-world+decisions." alt="LumoBridge animated intro" />
