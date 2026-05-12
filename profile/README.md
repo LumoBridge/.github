@@ -62,6 +62,11 @@ LumoBridge focuses on practical software that is:
   <img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge growing product ecosystem" width="900" />
 </p>
 
+## Feedback welcome
+
+LumoBridge is being built around real user needs, not assumptions.
+
+ThriveMap is preparing for public launch. ThrivePath is in product research. WorkShield is still in development and will be shared when it is ready for public feedback.
 <div align="center">
 
 <a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">
@@ -83,27 +88,6 @@ LumoBridge focuses on practical software that is:
 </div>
 
 <br />
-## Feedback welcome
-
-LumoBridge is being built around real user needs, not assumptions.
-
-ThriveMap is preparing for public launch. ThrivePath is in product research. WorkShield is still in development and will be shared when it is ready for public feedback.
-
-<div align="center">
-
-<a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">
-  <img src="https://img.shields.io/badge/ThrivePath-Take%20Survey-F59E0B?style=for-the-badge&labelColor=111827" alt="Take the ThrivePath survey" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey">
-  <img src="https://img.shields.io/badge/Community-Share%20Feedback-6366F1?style=for-the-badge&labelColor=111827" alt="Private community interest survey" />
-</a>
-
-</div>
-
-
 
 ## Product ecosystem
 
