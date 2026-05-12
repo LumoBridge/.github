@@ -44,7 +44,13 @@
 
 **LumoBridge** builds structured digital tools that help people and organizations organize important information, understand patterns, and make better decisions over time.
 
-The work combines product design, business analytics, AI-assisted workflows, community-informed research, and human-centered systems thinking.
+Our work brings together:
+
+- product design
+- business analytics
+- AI-assisted workflows
+- community-informed research
+- human-centered systems thinking
 
 LumoBridge focuses on practical software that is:
 
@@ -52,7 +58,7 @@ LumoBridge focuses on practical software that is:
 - useful for real decisions
 - privacy-aware
 - organized by design
-- built around real user needs
+- grounded in real user needs
 - supportive without overwhelming people
 
 > Useful technology should help people feel more organized, informed, and prepared — not more confused.
@@ -65,6 +71,14 @@ LumoBridge focuses on practical software that is:
   <img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge growing product ecosystem" width="900" />
 </p>
 
+| Product | Focus | Status |
+|---|---|---|
+| **ThriveMap** | Guided reflection, clarity, and steady practice | Preparing for public launch |
+| **ThrivePath** | Career growth, confidence, goals, and agentic AI coaching | Product research |
+| **WorkShield** | Private workplace preparedness and documentation platform | In development |
+
+---
+
 ## Feedback welcome
 
 LumoBridge is collecting early feedback to better understand real user needs before the next products are released.
@@ -72,10 +86,10 @@ LumoBridge is collecting early feedback to better understand real user needs bef
 We are currently gathering input for:
 
 - **ThrivePath** — a guided growth platform for career direction, confidence, goals, weekly review, and agentic AI coaching.
-- **WorkShield** — a workplace documentation app for organizing records, timelines, supporting files, and preparedness.
-- **WorkShield Private Community** — a possible private space for people to discuss workplace challenges, documentation needs, and support resources more safely.
+- **WorkShield** — a private workplace preparedness and documentation platform now in development.
+- **WorkShield Private Community** — a possible private space for people to discuss workplace concerns, support needs, and related resources more safely.
 
-Your feedback helps guide what we build, improve, and prioritize.
+Your feedback helps us understand what people need, what matters most, and what should be prioritized as these products move forward.
 
 <div align="center">
 
@@ -97,15 +111,6 @@ Your feedback helps guide what we build, improve, and prioritize.
 
 </div>
 
-<br />
-
-## Product ecosystem
-
-| Product | Focus | Status |
-|---|---|---|
-| **ThriveMap** | Guided reflection, clarity, steady practice | Preparing for public launch |
-| **ThrivePath** | Career growth, confidence, goals, and agentic AI coaching | Product research |
-| **WorkShield** | Workplace documentation, records, timelines, and preparedness | In development |
 ---
 
 ## What LumoBridge builds
@@ -116,14 +121,14 @@ LumoBridge is developing a connected product ecosystem across:
 - web platforms
 - business dashboards
 - agentic AI workflows
-- structured documentation tools
 - product feedback systems
-- decision-support dashboards
-- community-informed product research
+- decision-support tools
+- community-informed research
 
-The goal is to build smarter systems that help people and organizations organize information, understand patterns, reduce confusion, and take better next steps.
+The goal is to create smarter systems that help people and organizations organize information, reduce confusion, and move forward with greater clarity.
 
 ---
+
 ## Featured project
 
 ### ThriveMap
@@ -157,7 +162,6 @@ It includes:
   <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Supabase-10B981?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Power%20BI-F59E0B?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -170,7 +174,7 @@ It includes:
   <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge" alt="NLP" />
   <img src="https://img.shields.io/badge/Business%20Analytics-F59E0B?style=for-the-badge" alt="Business Analytics" />
   <img src="https://img.shields.io/badge/UX%20Design-6366F1?style=for-the-badge" alt="UX Design" />
-  <img src="https://img.shields.io/badge/Community%20Work-374151?style=for-the-badge" alt="Community Work" />
+  <img src="https://img.shields.io/badge/Community%20Research-374151?style=for-the-badge" alt="Community Research" />
 </p>
 
 ---
@@ -188,15 +192,18 @@ It includes:
 
 ---
 
-## Connect
+## Join the conversation
 
-LumoBridge is expanding across web, mobile, GitHub, LinkedIn, YouTube, and X to share product updates, demos, research, and practical tools.
+LumoBridge is expanding across web, mobile, GitHub, LinkedIn, YouTube, and X to share product updates, research, demos, and practical tools.
 
-We welcome feedback, collaboration, and aligned opportunities with people and organizations focused on meaningful technology, ethical AI, human-centered design, and real-world problem solving.
+We welcome thoughtful feedback, meaningful collaboration, and aligned opportunities with people and organizations focused on useful technology, ethical AI, human-centered design, and real-world problem solving.
 
 <p align="center">
   <a href="https://lumobridge.com">
     <img src="https://img.shields.io/badge/Visit-LumoBridge.com-111827?style=for-the-badge" alt="Visit LumoBridge" />
+  </a>
+  <a href="https://github.com/orgs/LumoBridge/discussions">
+    <img src="https://img.shields.io/badge/Join-LumoBridge%20Discussions-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Join LumoBridge Discussions" />
   </a>
   <a href="mailto:hello@lumobridge.com">
     <img src="https://img.shields.io/badge/Contact-hello@lumobridge.com-10B981?style=for-the-badge" alt="Contact LumoBridge" />
