@@ -83,13 +83,13 @@ LumoBridge focuses on practical software that is:
 </div>
 
 <br />
+## Product ecosystem
 
 | Product | Focus | Status |
 |---|---|---|
-| **ThriveMap** | Guided reflection, clarity, steady practice | Preparing for launch |
-| **ThrivePath** | Career growth, confidence, goals, agentic AI coaching | Product research |
-| **WorkShield** | Workplace documentation, records, timelines, preparedness | In development |
-
+| **ThriveMap** | Guided reflection, clarity, steady practice | Preparing for public launch |
+| **ThrivePath** | Career growth, confidence, goals, and agentic AI coaching | Product research |
+| **WorkShield** | Workplace documentation, records, timelines, and preparedness | In development |
 ---
 
 ## What LumoBridge builds
