@@ -64,25 +64,32 @@ LumoBridge focuses on practical software that is:
 
 ## Feedback welcome
 
-LumoBridge is being built around real user needs, not assumptions.
+LumoBridge is collecting early feedback to better understand real user needs before the next products are released.
 
-ThriveMap is preparing for public launch. ThrivePath is in product research. WorkShield is still in development and will be shared when it is ready for public feedback.
+We are currently gathering input for:
+
+- **ThrivePath** — a guided growth platform for career direction, confidence, goals, weekly review, and agentic AI coaching.
+- **WorkShield** — a workplace documentation app for organizing records, timelines, supporting files, and preparedness.
+- **WorkShield Private Community** — a possible private space for people to discuss workplace challenges, documentation needs, and support resources more safely.
+
+Your feedback helps guide what we build, improve, and prioritize.
+
 <div align="center">
 
 <a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey">
   <img src="https://img.shields.io/badge/ThrivePath-Take%20Survey-F59E0B?style=for-the-badge&labelColor=111827" alt="Take the ThrivePath survey" />
 </a>
 
-&nbsp;&nbsp;
+<br /><br />
 
 <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">
-  <img src="https://img.shields.io/badge/WorkShield-Take%20Survey-10B981?style=for-the-badge&labelColor=111827" alt="Take the WorkShield survey" />
+  <img src="https://img.shields.io/badge/WorkShield%20App-Take%20Survey-10B981?style=for-the-badge&labelColor=111827" alt="Take the WorkShield app survey" />
 </a>
 
-&nbsp;&nbsp;
+<br /><br />
 
 <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey">
-  <img src="https://img.shields.io/badge/Community-Share%20Feedback-6366F1?style=for-the-badge&labelColor=111827" alt="Private community interest survey" />
+  <img src="https://img.shields.io/badge/WorkShield%20Private%20Community-Share%20Feedback-6366F1?style=for-the-badge&labelColor=111827" alt="Share feedback for the WorkShield private community" />
 </a>
 
 </div>
