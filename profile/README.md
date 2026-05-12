@@ -83,6 +83,7 @@ LumoBridge focuses on practical software that is:
 </div>
 
 <br />
+
 ## Product ecosystem
 
 | Product | Focus | Status |
