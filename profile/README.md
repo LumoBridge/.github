@@ -109,12 +109,13 @@ LumoBridge is developing a connected product ecosystem across:
 The goal is to build smarter systems that help people and organizations organize information, understand patterns, reduce confusion, and take better next steps.
 
 ---
-
 ## Featured project
 
 ### ThriveMap
 
-**ThriveMap** is a guided reflection app built for people who want more structure, clarity, and consistency in their personal growth practice.
+**ThriveMap** is the first public product in the LumoBridge ecosystem.
+
+It is a guided reflection app built for people who want more structure, clarity, and consistency in their personal growth practice.
 
 It includes:
 
