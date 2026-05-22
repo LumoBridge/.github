@@ -74,7 +74,7 @@ LumoBridge focuses on practical software that is:
 | Product | Focus | Status |
 |---|---|---|
 | **ThriveMap** | Guided reflection, clarity, and steady practice | Preparing for public launch |
-| **ThrivePath** | Career growth, confidence, goals, and agentic AI coaching | Product research |
+| **Cadentra** | Career growth, confidence, goals, and agentic AI coaching | Product research |
 | **WorkShield** | Private workplace preparedness and documentation platform | In development |
 
 ---
@@ -85,7 +85,7 @@ LumoBridge is collecting early feedback to better understand real user needs bef
 
 We are currently gathering input for:
 
-- **ThrivePath** — a guided growth platform for career direction, confidence, goals, weekly review, and agentic AI coaching.
+- **Cadentra** — a guided growth platform for career direction, confidence, goals, weekly review, and agentic AI coaching.
 - **WorkShield** — a private workplace preparedness and documentation platform now in development.
 - **WorkShield Private Community** — a possible private space for people to discuss workplace concerns, support needs, and related resources more safely.
 
@@ -93,14 +93,14 @@ Your feedback helps us understand what people need, what matters most, and what 
 
 <div align="center">
 
-<a href="https://www.cognitoforms.com/VeyDamneun/ThrivePathProductResearchSurvey2">
-  <img src="https://img.shields.io/badge/ThrivePath-Take%20Survey-F59E0B?style=for-the-badge&labelColor=111827" alt="Take the ThrivePath survey" />
+<a href="https://www.cognitoforms.com/VeyDamneun/CadentraProductResearchSurvey">
+  <img src="https://img.shields.io/badge/Cadentra-Take%20Survey-F59E0B?style=for-the-badge&labelColor=111827" alt="Take the Cadentra product research survey" />
 </a>
 
 <br /><br />
 
 <a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">
-  <img src="https://img.shields.io/badge/WorkShield%20App-Take%20Survey-10B981?style=for-the-badge&labelColor=111827" alt="Take the WorkShield app survey" />
+  <img src="https://img.shields.io/badge/WorkShield%20App-Take%20Survey-10B981?style=for-the-badge&labelColor=111827" alt="Take the WorkShield customer research survey" />
 </a>
 
 <br /><br />
