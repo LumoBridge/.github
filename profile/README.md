@@ -67,10 +67,6 @@ LumoBridge focuses on practical software that is:
 
 ## Product ecosystem
 
-<p align="center">
-  <img src="https://github.com/Vey27/Vey27/blob/main/ecosystem.png?raw=true" alt="LumoBridge growing product ecosystem" width="900" />
-</p>
-
 | Product | Focus | Status |
 |---|---|---|
 | **ThriveMap** | Guided reflection, clarity, and steady practice | Preparing for public launch |
