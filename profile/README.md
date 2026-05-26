@@ -134,14 +134,12 @@ The goal is to create smarter systems that help people and organizations organiz
 It is a guided reflection app built for people who want more structure, clarity, and consistency in their personal growth practice.
 
 It includes:
-
-- four reflection domains
-- five-step guided sessions
-- weekly cycles
-- a 70-day journey
-- reflection history
-- journey summaries
-- web, iOS, and Android release preparation
+Home dashboard Shows current cycle, day, active days, completed reflections, yesterday’s carry-forward, domain focus, and cycle insights.
+Cycle dashboard Shows the current 7-day cycle, calendar view, selected week, domain activity, weekly suggestion, and reflection list.
+Journey summary Shows 70-day journey insights, patterns, weekly growth trend, domain mix, sessions, streak, cycles completed, and what comes next.
+Practice loop Shows Design, Rehearse, Anchor, Track, Review, and Refine as a repeated growth loop.
+Reflection path Shows Ground, Visualize, Rehearse, Write, and Anchor as the guided session structure.
+Export and privacy Allows PDF export, CSV export, custom export, current-cycle export, all-saved export, and says data is private by default and saved on the device.
 
 <p>
   <a href="https://github.com/LumoBridge/ThriveMap-Public-">
