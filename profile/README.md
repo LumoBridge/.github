@@ -4,11 +4,11 @@
 
 <br />
 
-### Practical digital tools for clarity, progress, documentation, analytics, and decision support.
+### Practical software for reflection, documentation, analytics, and decision support.
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=850&lines=AI-powered+apps+and+dashboards.;Structured+tools+for+real+decisions.;Human-centered+products+for+real+needs.;Smarter+systems+for+clarity+and+progress." alt="LumoBridge animated intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=111827&center=true&vCenter=true&width=850&lines=AI-powered+apps+and+dashboards.;Tools+for+clearer+decisions.;Products+built+around+real+needs.;Better+systems+for+everyday+progress." alt="LumoBridge animated intro" />
 
 <br />
 <br />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge&labelColor=111827" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/Data%20Analytics-10B981?style=for-the-badge&labelColor=111827" alt="Data Analytics" />
   <img src="https://img.shields.io/badge/Product%20Strategy-F59E0B?style=for-the-badge&labelColor=111827" alt="Product Strategy" />
-  <img src="https://img.shields.io/badge/Human--Centered%20Tools-374151?style=for-the-badge&labelColor=111827" alt="Human-Centered Tools" />
+  <img src="https://img.shields.io/badge/Human--Centered%20Design-374151?style=for-the-badge&labelColor=111827" alt="Human-Centered Design" />
 </p>
 
 </div>
@@ -42,176 +42,87 @@
 
 ## About LumoBridge
 
-**LumoBridge** builds structured digital tools that help people and organizations organize important information, understand patterns, and make better decisions over time.
+**LumoBridge** builds digital products that help people and organizations turn information into clearer action.
 
-Our work brings together:
+Our work combines product design, analytics, AI-assisted workflows, and practical decision support. Each product is built to solve a real problem, reduce confusion, and make important next steps easier to see.
 
-- product design
-- business analytics
-- AI-assisted workflows
-- community-informed research
-- human-centered systems thinking
-
-LumoBridge focuses on practical software that is:
-
-- clear and easy to understand
-- useful for real decisions
-- privacy-aware
-- organized by design
-- grounded in real user needs
-- supportive without overwhelming people
-
-> Useful technology should help people feel more organized, informed, and prepared — not more confused.
+We focus on software that feels clear, useful, and grounded in real user needs.
 
 ---
 
-## Product ecosystem
+## What We Build
+
+LumoBridge develops tools across several connected areas:
+
+| Area | Purpose |
+|---|---|
+| **Reflection and personal growth** | Help users build clarity through guided practice |
+| **Workplace documentation** | Support private records, timelines, and organized evidence |
+| **Analytics and dashboards** | Turn data into readable insights and better decisions |
+| **AI-assisted workflows** | Reduce manual work and improve follow-through |
+| **Community-informed research** | Use real feedback to guide product direction |
+
+---
+
+## Product Approach
+
+Our products are designed to be practical first.
+
+We care about:
+
+- clear user flows
+- thoughtful structure
+- privacy-aware design
+- useful dashboards
+- simple language
+- real-world decision support
+
+The goal is not to add more noise. The goal is to help people understand what matters and what to do next.
+
+---
+
+## Product Ecosystem
+
+LumoBridge is building a connected product ecosystem that includes:
 
 | Product | Focus | Status |
 |---|---|---|
-| **ThriveMap** | Guided reflection, clarity, and steady practice | Preparing for public launch |
-| **Cadentra** | Career growth, confidence, goals, and agentic AI coaching | Product research |
-| **WorkShield** | Private workplace preparedness and documentation platform | In development |
+| **ThriveMap** | Guided reflection and daily clarity practice | Launch preparation |
+| **Cadentra** | Guided growth, goals, programs, and AI coaching | In development |
+| **WorkShield** | Private workplace documentation and support tools | In development |
+| **LumoBridge Community** | Product feedback, shared learning, and private support spaces | In development |
 
 ---
 
-## Feedback welcome
+## Why LumoBridge Exists
 
-LumoBridge is collecting early feedback to better understand real user needs before the next products are released.
+Many people and small organizations have information scattered across notes, files, conversations, spreadsheets, and memory.
 
-We are currently gathering input for:
+LumoBridge creates tools that bring that information into a clearer structure.
 
-- **Cadentra** — a guided growth platform for career direction, confidence, goals, weekly review, and agentic AI coaching.
-- **WorkShield** — a private workplace preparedness and documentation platform now in development.
-- **WorkShield Private Community** — a possible private space for people to discuss workplace concerns, support needs, and related resources more safely.
+We build products that help users:
 
-Your feedback helps us understand what people need, what matters most, and what should be prioritized as these products move forward.
-
-<div align="center">
-
-<a href="https://www.cognitoforms.com/VeyDamneun/CadentraProductResearchSurvey">
-  <img src="https://img.shields.io/badge/Cadentra-Take%20Survey-F59E0B?style=for-the-badge&labelColor=111827" alt="Take the Cadentra product research survey" />
-</a>
-
-<br /><br />
-
-<a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldCustomerResearchSurvey">
-  <img src="https://img.shields.io/badge/WorkShield%20App-Take%20Survey-10B981?style=for-the-badge&labelColor=111827" alt="Take the WorkShield customer research survey" />
-</a>
-
-<br /><br />
-
-<a href="https://www.cognitoforms.com/VeyDamneun/WorkShieldPrivateCommunityInterestNeedsSurvey">
-  <img src="https://img.shields.io/badge/WorkShield%20Private%20Community-Share%20Feedback-6366F1?style=for-the-badge&labelColor=111827" alt="Share feedback for the WorkShield private community" />
-</a>
-
-</div>
+- capture what matters
+- understand patterns
+- stay organized
+- make decisions with more confidence
+- return to their progress over time
 
 ---
 
-## What LumoBridge builds
+## Built With Care
 
-LumoBridge is developing a connected product ecosystem across:
+LumoBridge products are designed around a simple belief:
 
-- mobile apps
-- web platforms
-- business dashboards
-- agentic AI workflows
-- product feedback systems
-- decision-support tools
-- community-informed research
+**Good software should make life easier to understand, not harder to manage.**
 
-The goal is to create smarter systems that help people and organizations organize information, reduce confusion, and move forward with greater clarity.
+That means every product should be useful, respectful of the user, and clear enough to use without needing a technical background.
 
 ---
 
-## Featured project
+## Connect
 
-### ThriveMap
-
-**ThriveMap** is the first public product in the LumoBridge ecosystem.
-
-It is a guided reflection app built for people who want more structure, clarity, and consistency in their personal growth practice.
-
-It includes:
-Home dashboard Shows current cycle, day, active days, completed reflections, yesterday’s carry-forward, domain focus, and cycle insights.
-Cycle dashboard Shows the current 7-day cycle, calendar view, selected week, domain activity, weekly suggestion, and reflection list.
-Journey summary Shows 70-day journey insights, patterns, weekly growth trend, domain mix, sessions, streak, cycles completed, and what comes next.
-Practice loop Shows Design, Rehearse, Anchor, Track, Review, and Refine as a repeated growth loop.
-Reflection path Shows Ground, Visualize, Rehearse, Write, and Anchor as the guided session structure.
-Export and privacy Allows PDF export, CSV export, custom export, current-cycle export, all-saved export, and says data is private by default and saved on the device.
-
-<p>
-  <a href="https://github.com/LumoBridge/ThriveMap-Public-">
-    <img src="https://img.shields.io/badge/View-ThriveMap%20Public%20Repo-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View ThriveMap public repo" />
-  </a>
-</p>
-
----
-
-## Tools and focus areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Power%20BI-F59E0B?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Workflows-374151?style=for-the-badge" alt="AI Workflows" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge" alt="NLP" />
-  <img src="https://img.shields.io/badge/Business%20Analytics-F59E0B?style=for-the-badge" alt="Business Analytics" />
-  <img src="https://img.shields.io/badge/UX%20Design-6366F1?style=for-the-badge" alt="UX Design" />
-  <img src="https://img.shields.io/badge/Community%20Research-374151?style=for-the-badge" alt="Community Research" />
-</p>
-
----
-
-## Product principles
-
-| Principle | Meaning |
-|---|---|
-| **Clear before clever** | Make tools easy to understand |
-| **Useful before flashy** | Solve real problems first |
-| **Privacy before exposure** | Treat sensitive information carefully |
-| **Structure before complexity** | Help people organize what matters |
-| **Real needs before assumptions** | Let feedback guide product decisions |
-| **Human before system** | Technology should support people, not overwhelm them |
-
----
-
-## Join the conversation
-
-LumoBridge is expanding across web, mobile, GitHub, LinkedIn, YouTube, and X to share product updates, research, demos, and practical tools.
-
-We welcome thoughtful feedback, meaningful collaboration, and aligned opportunities with people and organizations focused on useful technology, ethical AI, human-centered design, and real-world problem solving.
-
-<p align="center">
-  <a href="https://lumobridge.com">
-    <img src="https://img.shields.io/badge/Visit-LumoBridge.com-111827?style=for-the-badge" alt="Visit LumoBridge" />
-  </a>
-  <a href="https://github.com/orgs/LumoBridge/discussions">
-    <img src="https://img.shields.io/badge/Join-LumoBridge%20Discussions-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Join LumoBridge Discussions" />
-  </a>
-  <a href="mailto:hello@lumobridge.com">
-    <img src="https://img.shields.io/badge/Contact-hello@lumobridge.com-10B981?style=for-the-badge" alt="Contact LumoBridge" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-<img src="./GitHub-2.png" alt="LumoBridge logo" width="160" />
-
-<br />
-
-**Building structured digital tools for clarity, progress, and protection.**
-
-</div>
+- Website: [lumobridge.com](https://lumobridge.com)
+- Discussions: [GitHub Discussions](https://github.com/orgs/LumoBridge/discussions)
+- Email: [hello@lumobridge.com](mailto:hello@lumobridge.com)
+- GitHub: [LumoBridge](https://github.com/LumoBridge)
