@@ -89,7 +89,7 @@ LumoBridge is building a connected product ecosystem that includes:
 |---|---|---|
 | **ThriveMap** | Guided reflection and daily clarity practice | Launch preparation |
 | **Cadentra** | Guided growth, goals, programs, and AI coaching | In development |
-| **WorkShield** | Private workplace documentation and support tools | In development |
+| **Vertify** | A private space to keep a clear record of your work | In development |
 | **LumoBridge Community** | Product feedback, shared learning, and private support spaces | In development |
 
 ---
