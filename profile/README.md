@@ -87,9 +87,9 @@ LumoBridge is building a connected product ecosystem that includes:
 
 | Product | Focus | Status |
 |---|---|---|
-| **ThriveMap** | Guided reflection and daily clarity practice | Launch preparation |
-| **Cadentra** | Guided growth, goals, programs, and AI coaching | In development |
-| **Vertify** | A private space to keep a clear record of your work | In development |
+| [**ThriveMap**](https://lumobridge.com/thrivemap) | Guided reflection and daily clarity practice | Available now on the [Apple App Store](https://apps.apple.com/app/thrivemap/id6762503722) for iPhone and iPad. Android is still being tested. |
+| [**Cadentra**](https://lumobridge.com/cadentra) | Guided growth, goals, programs, and AI coaching | Coming soon |
+| [**Vertify**](https://lumobridge.com/vertify) | A private space to keep a clear record of your work | In development |
 | **LumoBridge Community** | Product feedback, shared learning, and private support spaces | In development |
 
 ---
