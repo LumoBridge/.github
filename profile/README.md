@@ -87,9 +87,11 @@ LumoBridge is building a connected product ecosystem that includes:
 
 | Product | Focus | Status |
 |---|---|---|
-| [**ThriveMap**](https://lumobridge.com/thrivemap) | Guided reflection and daily clarity practice | Available now on the [Apple App Store](https://apps.apple.com/app/thrivemap/id6762503722) for iPhone and iPad. Android is still being tested. |
-| [**Cadentra**](https://lumobridge.com/cadentra) | Guided growth, goals, programs, and AI coaching | Coming soon |
-| [**Vertify**](https://lumobridge.com/vertify) | A private space to keep a clear record of your work | In development |
+| [**ThriveMap**](https://lumobridge.com/thrivemap) | Guided reflection and daily practice | Available on the [App Store](https://apps.apple.com/app/thrivemap/id6762503722) and [Google Play](https://play.google.com/store/apps/details?id=com.lumobridge.thrivemap) |
+| [**Eat What?**](https://lumobridge.com/eat-what) | Photograph an ingredient list and see what each name means, with sources | Available [on the web](https://eatwhat.lumobridge.com). iPhone and Android in progress |
+| [**LumoConnect**](https://lumoconnect.com) | Search more than 1,900 source checked government, nonprofit, and community resources across all 50 states | Live |
+| [**Business Analytics Pro**](https://lumobridge.com/business-analytics-pro) | Clean a messy sales spreadsheet and download an editable PowerPoint | Free public pilot |
+| [**Cadentra**](https://lumobridge.com/cadentra) | Guided growth, goals, and programs | Coming soon |
 | **LumoBridge Community** | Product feedback, shared learning, and private support spaces | In development |
 
 ---
